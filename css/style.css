@@ -19116,6 +19116,9 @@ body.white-version .rn-btn-ulderline {
   letter-spacing: 2px;
   font-weight: 500;
 }
+.progress-wrapper {
+  margin-top: 50px;
+}
 .white-version .progress-wrapper .content h4.maintitle {
   color: var(--color-heading-wv);
 }
